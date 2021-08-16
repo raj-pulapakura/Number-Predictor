@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">Number Predictor</string>
+
+    <string name="magic">Number</string>
+    <string name="numbers">Predictor</string>
+    <string name="play">Play</string>
+
+    <string name="instructions_para1">Think of a number from 1 to 30. You will be shown 5 cards. Click yes if you see your number on the card and click no if you don\'t.</string>
+    <string name="instructions_para2">Then, I will magically guess your number…</string>
+    <string name="let_s_go">Let\'s go!</string>
+
+    <string name="your_number_is">Your number is…</string>
+    <string name="play_again">Play again</string>
+    <string name="main_menu">Main menu</string>
+
+    <string name="card_1">Card 1</string>
+    <string name="card_2">Card 2</string>
+    <string name="card_3">Card 3</string>
+    <string name="card_4">Card 4</string>
+    <string name="card_5">Card 5</string>
+
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_10">10</string>
+    <string name="_11">11</string>
+    <string name="_12">12</string>
+    <string name="_13">13</string>
+    <string name="_14">14</string>
+    <string name="_15">15</string>
+    <string name="_16">16</string>
+    <string name="_17">17</string>
+    <string name="_18">18</string>
+    <string name="_19">19</string>
+    <string name="_20">20</string>
+    <string name="_21">21</string>
+    <string name="_22">22</string>
+    <string name="_23">23</string>
+    <string name="_24">24</string>
+    <string name="_25">25</string>
+    <string name="_26">26</string>
+    <string name="_27">27</string>
+    <string name="_28">28</string>
+    <string name="_29">29</string>
+    <string name="_30">30</string>
+    <string name="_31">31</string>
+    <string name="_32">32</string>
+    <string name="_33">33</string>
+    <string name="_34">34</string>
+
+    <string name="do_you_see_your_number">Do you see your number?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
